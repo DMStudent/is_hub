@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/websearch4/!svn/ver/514297/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj_online/app/hub_spider/lib/libsvm
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websearch4/!svn/ver/514297/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj_online/app/hub_spider/lib/libsvm/__init__.py
+END
+svmutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/websearch4/!svn/ver/514297/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj_online/app/hub_spider/lib/libsvm/svmutil.py
+END
+libsvm.so.2
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websearch4/!svn/ver/514297/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj_online/app/hub_spider/lib/libsvm/libsvm.so.2
+END
+svm.py
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/websearch4/!svn/ver/514297/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj_online/app/hub_spider/lib/libsvm/svm.py
+END

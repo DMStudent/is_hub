@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/websearch4/!svn/ver/617598/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/core.py
+END
+element.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/element.py
+END
+block.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websearch4/!svn/ver/617598/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/block.py
+END
+content_exactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/content_exactor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/websearch4/!svn/ver/572925/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/utils.py
+END
+page_charactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/page_charactor.py
+END
+link_filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/link_filter.py
+END
+block_distance.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websearch4/!svn/ver/589628/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/block_distance.py
+END
+block_tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/block_tree.py
+END
+page.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/page.py
+END
+build_tree.py
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/build_tree.py
+END
+block_stack.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/block_stack.py
+END
+html_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/websearch4/!svn/ver/585049/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/html_parser.py
+END
+_compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/_compat.py
+END
+node.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/websearch4/!svn/ver/557703/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/node.py
+END
+block_identify.py
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/websearch4/!svn/ver/591542/web/web_selector/web_sac/os_crawler/branches/os_crawler_wwj/app/hub_spider/htmlparser3/block_identify.py
+END
